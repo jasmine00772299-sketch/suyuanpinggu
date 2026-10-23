@@ -1,7 +1,7 @@
 {
-  "htmlBytes": 673864,
-  "gzipBytes": 182997,
-  "sha256": "64f049842fcef2808c70a23e5822dd74ba3300fe961b78bf77f7fcb693cc2962",
+  "htmlBytes": 691413,
+  "gzipBytes": 183512,
+  "sha256": "6bb30a0d0e2505bf8678ee850b0d74683310633fe65923cc4127026bc09c80fd",
   "caseCount": 944,
   "nearlineCount": 444,
   "onlineCount": 500,
@@ -14,13 +14,13 @@
     "source": "compare_v5.html · 线上原answer",
     "onlineRange": [
       1,
-      100
+      500
     ],
     "caseIdRange": [
       445,
-      544
+      944
     ],
-    "count": 100
+    "count": 500
   },
   "updatedAt": "2026-10-23"
 }
