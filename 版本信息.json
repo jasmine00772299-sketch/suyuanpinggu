@@ -1,0 +1,26 @@
+{
+  "htmlBytes": 673864,
+  "gzipBytes": 182997,
+  "sha256": "64f049842fcef2808c70a23e5822dd74ba3300fe961b78bf77f7fcb693cc2962",
+  "caseCount": 944,
+  "nearlineCount": 444,
+  "onlineCount": 500,
+  "onlineLocalNumbering": "1–500",
+  "rules": "sourceType-specific nearline/online baseline and strategy rules",
+  "aiPrefilledEvaluations": 0,
+  "loading": "lazy case details via data/cases/{id}.json",
+  "baselineRevision": "compare-v5-original-v1",
+  "originalOnlineBaseline": {
+    "source": "compare_v5.html · 线上原answer",
+    "onlineRange": [
+      1,
+      100
+    ],
+    "caseIdRange": [
+      445,
+      544
+    ],
+    "count": 100
+  },
+  "updatedAt": "2026-10-23"
+}
